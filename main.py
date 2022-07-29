@@ -6,7 +6,7 @@ import email
 from email.header import decode_header
 import os
 
-bot=telebot.TeleBot('2115088501:AAHVCZLNqOZp4Ui9Pn-5rJw3FNOiJ17671g')
+bot=telebot.TeleBot('')
 
 class EmailNotificator:
 
